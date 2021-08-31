@@ -1,0 +1,2 @@
+# datastrwithc
+my practice code
